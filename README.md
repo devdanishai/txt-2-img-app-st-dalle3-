@@ -20,8 +20,9 @@ This tool is ideal for content creation, design, and visual storytelling, empowe
 
 ## 📺 Video Demonstration:   
 [![Watch the video](https://img.youtube.com/vi/cskPcx6yYZM/0.jpg)](https://www.youtube.com/watch?v=cskPcx6yYZM)
-2026-08-29
 
+
+2026-09-01
 
 
 
